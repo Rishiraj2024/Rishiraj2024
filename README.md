@@ -30,7 +30,7 @@ Passionate about building scalable full-stack applications using Java, Spring Bo
 - ⭐ **CodeChef Rating:** 1200+
 - 🌱 Currently learning **System Design, Microservices & DevOps**
 - 🚀 Building scalable Full Stack Applications
-- 📫 Reach me at **rishirajprasadyadav@gmail.com**
+- 📫 Reach me at **rishirajprasadyadav8@gmail.com**
 
 ---
 
