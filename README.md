@@ -1,45 +1,156 @@
+<h1 align="center">Hi 👋, I'm Rishiraj Prasad Yadav</h1>
 
-# 💫 Hi 👋, I'm Rishiraj Prasad Yadav
-**A passionate Backend Engineer from India**
+<h3 align="center">
+🚀 Java Full Stack Developer | Spring Boot | React | DSA Enthusiast
+</h3>
 
-Email Me 👉 ✉️ **rishirajprasadyadav8.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+Passionate about building scalable full-stack applications using Java, Spring Boot, React, and PostgreSQL while continuously improving my problem-solving skills through Data Structures & Algorithms.
+</p>
 
-- 🌱 **I’m currently learning:** Django
-- 🤔 **I’m looking for help with:** rishirajprasadyadav8.com
-- 💬 **Ask me about:**rishirajprasadyadav8.com
-- 📫 **How to reach me:** 
-- 😄 **Pronouns:** Rishi
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishiraj-prasad-yadav-1b2976284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishirajprasadyadav8@gmail.com) 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;DSA+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rishiraj2024&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rishiraj2024&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rishiraj2024&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rishiraj2024&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rishiraj2024&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rishiraj2024&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Rishiraj2024?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Rishiraj2024?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rishiraj2024&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
+# 👨‍💻 About Me
 
+- 🎓 B.Tech in Computer Science & Engineering
+- 💼 Aspiring Java Full Stack Developer
+- ☕ Passionate about Java, Spring Boot, and React
+- 💻 Solved **300+ DSA Problems**
+- 🏆 **LeetCode Rating:** 1400+
+- ⭐ **CodeChef Rating:** 1200+
+- 🌱 Currently learning **System Design, Microservices & DevOps**
+- 🚀 Building scalable Full Stack Applications
+- 📫 Reach me at **your-email@gmail.com**
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Featured Projects
+
+### 🤖 AI Interview Platform
+AI-powered interview preparation platform featuring coding assessments, technical & HR mock interviews, resume analysis, AI feedback, and performance analytics.
+
+### 💪 FitMind AI
+AI-powered fitness management platform with workout tracking, nutrition planning, progress analytics, and personalized AI fitness coaching.
+
+### 🏨 RajStay Hotel Management
+Modern hotel booking and management system with secure authentication, room booking, payment integration, and admin dashboard.
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,vite,javascript,cpp,c,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,docker,maven,git,github,vscode,linux&perline=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishiraj2024&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishiraj2024&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj2024&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishiraj2024&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rishiraj2024&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/your-username">
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/your-username">
+<img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/your-username">
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-green?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Rishiraj2024">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://leetcode.com/your-username">
+<img src="https://cdn.simpleicons.org/leetcode" width="50"/>
+</a>
+
+<a href="https://www.codechef.com/users/your-username">
+<img src="https://cdn.simpleicons.org/codechef" width="50"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💙 "Code. Learn. Build. Repeat."
+
+⭐ If you like my work, consider following me and starring my repositories.
+
+</p>
