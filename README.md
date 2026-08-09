@@ -89,15 +89,7 @@ Modern hotel booking and management system with secure authentication, room book
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rishiraj2024&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 💻 Coding Profiles
 
