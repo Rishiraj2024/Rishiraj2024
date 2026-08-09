@@ -127,20 +127,20 @@ Modern hotel booking and management system with secure authentication, room book
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://leetcode.com/u/rishi123_2023/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="rishirajprasadyadav8@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-<a href="https://leetcode.com/your-username">
-<img src="https://cdn.simpleicons.org/leetcode" width="50"/>
+<a href="https://www.geeksforgeeks.org/profile/rishi123_2023">
+<img src="https://cdn.simpleicons.org/geeksforgeeks" width="50"/>
 </a>
 
 <a href="https://www.codechef.com/users/your-username">
-<img src="https://cdn.simpleicons.org/codechef" width="50"/>
+<img src="https://www.codechef.com/users/rishi2023" width="50"/>
 </a>
 
 </p>
