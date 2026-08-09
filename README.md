@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishiraj Prasad Yadav</h1>
 
 <h3 align="center">
-🚀 Java Full Stack Developer | Spring Boot | React | DSA Enthusiast
+ Java Full Stack Developer | Spring Boot | React | DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -71,10 +71,10 @@ Modern hotel booking and management system with secure authentication, room book
 
 # 📈 Most Used Languages
 
+##  Technologies & Tools
+
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj2024&layout=compact&theme=tokyonight"/>
-
+  <img src="https://skillicons.dev/icons?i=java,spring,js,cpp,c,html,css,react,tailwind,nodejs,express,mongodb,postgres,mysql,docker,git,github,postman,vscode" />
 </p>
 
 ---
