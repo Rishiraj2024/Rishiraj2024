@@ -139,8 +139,8 @@ Modern hotel booking and management system with secure authentication, room book
 <img src="https://cdn.simpleicons.org/geeksforgeeks" width="50"/>
 </a>
 
-<a href="https://www.codechef.com/users/your-username">
-<img src="https://www.codechef.com/users/rishi2023" width="50"/>
+<a href="https://www.codechef.com/users/rishi2023">
+<img src="https://cdn.simpleicons.org/codechef" width="50"/>
 </a>
 
 </p>
